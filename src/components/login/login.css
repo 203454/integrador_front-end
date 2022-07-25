@@ -1,0 +1,14 @@
+
+
+#contenedor_login{  
+    padding: 3em;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5em;
+}
+
+#botonlogin{
+    
+    background-color:rgb(48, 23, 211) !important;
+
+}

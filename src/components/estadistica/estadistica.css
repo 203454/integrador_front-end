@@ -1,0 +1,16 @@
+
+#selectsi{
+
+    margin: 2%
+}
+
+#datosa{
+    padding: 2%;
+  
+    margin: 20%;
+    margin-top:1%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
